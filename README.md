@@ -34,8 +34,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 [
 ](https://github.com/tfkjosh/Social-Network-Api/assets/140848241/5aba7194-86d0-4e40-ba08-3e7b509f6254)
 
-
-
+[
+](https://github.com/tfkjosh/Social-Network-Api/assets/140848241/a30d9e63-f0e5-4722-93bb-f704f6fc4a8a)
 ## Installation
 
 1. Create a new repository on your GitHub account and clone it to your computer.
